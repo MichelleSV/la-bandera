@@ -1,0 +1,15 @@
+.y{
+	background-color: yellow;
+}
+.r{
+	background-color: red;
+}
+div{
+	height: 90px;
+	width: 190px;
+	margin: 8px;
+}
+p{
+	margin: 0px;
+	padding: 12px;
+}
